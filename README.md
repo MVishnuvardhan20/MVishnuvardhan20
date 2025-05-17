@@ -45,7 +45,7 @@ I'm a passionate *App Developer* with experience in building and scaling cloud-n
   <a href="https://www.linkedin.com/in/your-linkedin/" target="https://www.linkedin.com/in/vishnu-vardhan-913420334">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="vishnuvardhan46h@gmail.com">
+  <a href="mailto:vishnuvardhan46h@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
   </a>
 </p>
